@@ -2,4 +2,4 @@
 
 #first real repo
 
-#current WIP: chap. 14 p. 306
+#current WIP: chap. 14 p. 310
